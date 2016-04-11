@@ -1,2 +1,2 @@
-# pitottube
-Code and schematic repository for the ISU pitottube lab
+# Pitot Tube
+Code and schematic repository for the ISU pitot tube lab
